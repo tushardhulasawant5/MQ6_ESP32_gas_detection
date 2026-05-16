@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/452731f6-34ca-4f17-93f1-a308296c677f
+
+<img width="426" height="240" alt="Video Project 4" src="https://github.com/user-attachments/assets/c6899fa6-dc2e-4abd-8dca-82969ac5dfdb" />
+<img width="426" height="240" alt="Video Project 4" src="https://github.com/user-attachments/assets/54ce2750-9a62-4277-9404-cbe3c2826497" />
+
+
 # 🚀 ESP32 MQ-6 Gas Detector with 1.3" OLED Display
 
 A professional, real-time embedded safety system built on the **ESP32 (38-pin NodeMCU-32S)** architecture. This project interfaces an **MQ-6 Semiconductor Sensor** to detect LPG, Butane, and Propane leaks, processing the telemetry locally and rendering live instrumentation data on a **1.3-inch SH1106 I2C OLED display**.
